@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "socialcrawl-superengine",
+  "description": "Standalone marketplace for the socialcrawl-superengine Claude Code plugin, mirrored from revxl-marketplace.",
+  "owner": {
+    "name": "Joe Olive",
+    "email": "joe@engineforimpact.com"
+  },
+  "metadata": {
+    "version": "0.4.2"
+  },
+  "plugins": [
+    {
+      "name": "socialcrawl-superengine",
+      "description": "v0.4.2 · Deep social research superengine on the SocialCrawl API: the full canon — 645 endpoints across 68 platform namespaces — with exact per-call credits, plus guided research plays — voice-of-customer mining, competitor ad-library recon, AI-visibility (GEO) audits, link-in-bio offer mapping, audience demographics, dev/tool radar — and priced big-gun one-shots (creator vetting, lead discovery, share-of-voice). Bring-your-own key; paid calls are priced up front and counted against a silent session limit, as the guard counts them: a few it can't price (batch jobs, batch scrapes, web monitors, cohorts) are counted at 0, and the limit does not stop them. Pairs with the RevXL format engines (they detect it and unlock deep plays) or runs standalone.",
+      "source": "./plugins/socialcrawl-superengine",
+      "category": "marketing",
+      "version": "0.4.2",
+      "author": {
+        "name": "Joe Olive",
+        "email": "joe@engineforimpact.com"
+      },
+      "homepage": "https://github.com/joeoliveimpact/revxl-marketplace/tree/main/plugins/socialcrawl-superengine",
+      "license": "MIT",
+      "keywords": [
+        "socialcrawl",
+        "social-research",
+        "voice-of-customer",
+        "ad-library",
+        "competitor-analysis",
+        "ai-visibility",
+        "creator-vetting",
+        "lead-discovery",
+        "instagram",
+        "tiktok",
+        "youtube",
+        "revxl",
+        "superengine"
+      ]
+    }
+  ]
+}
